@@ -1,0 +1,55 @@
+html {
+  background-image: url(https://images.unsplash.com/photo-1464802686167-b939a6910659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1033&q=80);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+button {
+  background-color: #b3b3ff;
+  border-color: #00004d;
+  border-width: 3px;
+  color: #00004d;
+  padding: 20px 50px;
+  font-family: "Roboto Mono", monospace;
+  font-size: 30px;
+  border-radius: 10px;
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 30%;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #7d7dff;
+}
+
+h1 {
+  font-size: 60px;
+  color: #e6e6ff;
+  padding: 10px;
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+}
+
+h2 {
+  font-size: 25px;
+  background-color: rgba(0, 13, 51, 0.5);
+  color: white;
+  font-family: "Source Code Pro", monospace;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.Title {
+  height: 100px;
+  background-color: #00001a;
+  margin-bottom: 50px;
+  margin-bottom: 20px;
+}
+
+.Image {
+  margin-left: 33%;
+  margin-right: 30%;
+}
