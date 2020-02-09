@@ -22,7 +22,7 @@ class DisplayQuote extends React.Component {
           alt=""
         />
         <button type="button" onClick={this.getQuote}>
-          Get Inspired
+          <p>Get Inspired</p>
         </button>
         <h2>{this.state.quote}</h2>
       </div>
