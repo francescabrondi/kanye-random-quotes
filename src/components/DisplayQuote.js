@@ -16,11 +16,7 @@ class DisplayQuote extends React.Component {
                 <div className="Title">
                     <h1>Random Kanye quote</h1>
                 </div>
-                <img
-                    className="Image"
-                    src="../components/images/kanye2.png"
-                    alt=""
-                />
+                <img className="Image" src="kanye2.png" alt="kanye" />
                 <button type="button" onClick={this.getQuote}>
                     <p>Get Inspired</p>
                 </button>
